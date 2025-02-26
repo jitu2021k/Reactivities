@@ -483,3 +483,5 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 API/reactivities.db
+API/bin/Debug/net9.0/API.dll
+*.dll
